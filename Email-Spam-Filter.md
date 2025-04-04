@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Email Spam Filter
 
 _yay_
 
