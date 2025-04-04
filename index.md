@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./Email-Spam-Filter.html).
+[Email Spam Filter](./Email-Spam-Filter.html).
 
 There should be whitespace between paragraphs.
 
