@@ -3,3 +3,6 @@ description: A portfolio for the collection of my projects
 show_downloads: True
 google_analytics:
 theme: jekyll-theme-architect
+resume:
+  pdf_url: 
+  docx_url: 
