@@ -33,10 +33,9 @@ Below you can find an assortment of different projects:
 
 ### [Information Security Management Portfolio](./Information-Security-Management-Portfolio.html)
 
-> *   Security Issue Identification & Analysis: Identified the specific security incident and analysed the techniques used by attackers, the vulnerabilities exploited, and the affected          assets (e.g., user data, company reputation).
-> *   Impact & Threat Assessment: Evaluated the short- and long-term impacts of the breach on the organisation, including financial loss and reputational damage, and identified potential        threat vectors and vulnerabilities.
-> *   Risk Management & Proposed Controls: Developed a risk register with identified risks and implemented procedural, technical, and physical controls (e.g., firewalls, training     
-      programs, access controls) to mitigate future threats.
+> *   Security Issue Identification & Analysis: Identified the specific security incident and analysed the techniques used by attackers, the           vulnerabilities exploited, and the affected assets (e.g., user data, company reputation).
+> *   Impact & Threat Assessment: Evaluated the short- and long-term impacts of the breach on the organisation, including financial loss and           reputational damage, and identified potential threat vectors and vulnerabilities.
+> *   Risk Management & Proposed Controls: Developed a risk register with identified risks and implemented procedural, technical, and physical         controls (e.g., firewalls, training programs, access controls) to mitigate future threats.
 
 ### [Computer Forensics and Investigation](./Computer-Forensics-and-Investigation.html)
 
@@ -47,108 +46,7 @@ Below you can find an assortment of different projects:
 ### [Denial of Service Attacks with Mitigations](./Denial-of-Service-Attacks-with-Mitigations.html)
 
 > *   
-> *   
-> *   
-> *   
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+> *
+> *
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
