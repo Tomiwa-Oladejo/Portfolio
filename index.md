@@ -28,33 +28,35 @@ Below you can find an assortment of different projects:
 
 ### [Email Spam Filter](./Email-Spam-Filter.html)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> *   Engineered a machine-learning-based spam detection system leveraging Python and TensorFlow frameworks.
+> *   Applied sophisticated preprocessing techniques such as tokenization and stop-word elimination to optimise dataset accuracy.
+> *   Evaluated algorithmic performance through rigorous testing, documenting results in an extensive technical report.
 
 ### [Vulnerability Assessment and Penetration Testing](./Vulnerability-Assessment-and-Penetration-Testing.html)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> *   Executed systematic vulnerability assessments of simulated enterprise networks to identify critical security weaknesses.
+> *   Utilised industry-standard tools, including Nmap, Wireshark, and Metasploit, for network scanning, packet analysis, and exploit validation.
+> *   Delivered comprehensive technical recommendations in a structured remediation plan, supported by empirical data.
 
 ### [Information Security Management Portfolio](./Information-Security-Management-Portfolio.html)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> *   Security Issue Identification & Analysis: Identified the specific security incident and analysed the techniques used by attackers, the vulnerabilities exploited, and the affected          assets (e.g., user data, company reputation).
+> *   Impact & Threat Assessment: Evaluated the short- and long-term impacts of the breach on the organisation, including financial loss and reputational damage, and identified potential        threat vectors and vulnerabilities.
+> *   Risk Management & Proposed Controls: Developed a risk register with identified risks and implemented procedural, technical, and physical controls (e.g., firewalls, training     
+      programs, access controls) to mitigate future threats.
 
 ### [Computer Forensics and Investigation](./Computer-Forensics-and-Investigation.html)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> *   Conducted advanced forensic analysis utilising Cellebrite’s Physical Analyser to extract and parse digital data.
+> *   Performed comprehensive evaluations of textual, multimedia, and application datasets to identify evidentiary artefacts.
+> *   Synthesised findings into a detailed forensic report, adhering to rigorous methodological standards and evidentiary protocols.
 
 ### [Denial of Service Attacks with Mitigations](./Denial-of-Service-Attacks-with-Mitigations.html)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> *   
+> *   
+> *   
+> *   
 
 ### Header 3
 
