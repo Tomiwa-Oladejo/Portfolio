@@ -8,7 +8,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Introduction
+# <u>Introduction</u>
 
 Hello, my name is Tomiwa Oladejo.
 
@@ -16,7 +16,7 @@ I decided to create this website as a means to showcase the collection of variou
 
 Please feel free to contact me if you wish to have a discussion.
 
-## Projects
+## <u>Projects</u>
 Below you can find an assortment of different projects:
 
 ### [Email Spam Filter](./Email-Spam-Filter.html)
@@ -24,7 +24,6 @@ Below you can find an assortment of different projects:
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-> [Email Spam Filter](./Email-Spam-Filter.html).
 
 ### Header 3
 
