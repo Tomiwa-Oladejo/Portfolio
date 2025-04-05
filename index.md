@@ -19,7 +19,7 @@ Please feel free to contact me if you wish to have a discussion.
 ## Projects
 Below you can find an assortment of different projects:
 
-### [Email Spam Filter](./Email-Spam-Filter.html).
+### [Email Spam Filter](./Email-Spam-Filter.html)
 
 > This is a blockquote following a header.
 >
