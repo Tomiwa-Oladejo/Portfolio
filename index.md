@@ -10,7 +10,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # <u>Introduction</u>
 
-Hello, my name is Tomiwa Oladejo.
+<dl>
+<dt>Name</dt>
+<dd>Tomiwa Oladejo</dd>
+<dt>Education</dt>
+<dd>Nottingham trent university, Nottingham| September 2020 – July 2023 
+  
+  BSc (Hons) Computer Systems (Cyber Security) – Graduated with a 2:1</dd>
+</dl>
 
 I decided to create this website as a means to showcase the collection of various projects I have completed, as a method to gain hands on experience in various areas of the captivating field that is cyber security. Furthermore, through the exploration of these projects, I have been able to vastly expand the scope of my knowledge, in addition to positively benefitting from the luxury of continuous learning. 
 
