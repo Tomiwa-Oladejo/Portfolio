@@ -45,8 +45,8 @@ Below you can find an assortment of different projects:
 
 ### [Denial of Service Attacks with Mitigations](./Denial-of-Service-Attacks-with-Mitigations.html)
 
-> *   
-> *
-> *
+> *   a
+> *   a
+> *   a
 
 
