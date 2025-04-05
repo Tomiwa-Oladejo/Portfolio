@@ -1,6 +1,6 @@
 title: Tomiwa's Portfolio
 description: A portfolio for the collection of my projects
-show_downloads: true
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-architect
 github:
