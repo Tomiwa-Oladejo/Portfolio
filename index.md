@@ -50,6 +50,12 @@ Below you can find an assortment of different projects:
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+### [Denial of Service Attacks with Mitigations](./Denial-of-Service-Attacks-with-Mitigations.html)
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
 ### Header 3
 
 ```js
