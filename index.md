@@ -25,6 +25,24 @@ Below you can find an assortment of different projects:
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+### [Vulnerability Assessment and Penetration Testing](./Vulnerability-Assessment-and-Penetration-Testing.html)
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### [Information Security Management Portfolio](./Information-Security-Management-Portfolio.html)
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### [Computer Forensics and Investigation](./Computer-Forensics-and-Investigation.html)
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
 ### Header 3
 
 ```js
