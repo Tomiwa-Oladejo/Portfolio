@@ -31,7 +31,7 @@ Below you can find an assortment of different projects:
 > *   Utilised industry-standard tools, including Nmap, Wireshark, and Metasploit, for network scanning, packet analysis, and exploit validation.
 > *   Delivered comprehensive technical recommendations in a structured remediation plan, supported by empirical data.
 
-### [Information Security Management Portfolio](./Information-Security-Management-Portfolio.html)
+### [Information Security Management Portfolio](./Information-Security-Portfolio.md.html)
 
 > *   Security Issue Identification & Analysis: Identified the specific security incident and analysed the techniques used by attackers, the           vulnerabilities exploited, and the affected assets (e.g., user data, company reputation).
 > *   Impact & Threat Assessment: Evaluated the short- and long-term impacts of the breach on the organisation, including financial loss and           reputational damage, and identified potential threat vectors and vulnerabilities.
