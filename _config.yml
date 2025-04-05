@@ -1,8 +1,5 @@
 title: Tomiwa's Portfolio
 description: A portfolio for the collection of my projects
-show_downloads: False
+show_downloads: True
 google_analytics:
 theme: jekyll-theme-architect
-github:
-  pdf_url: https://github.com/Tomiwa-Oladejo/Portfolio/blob/main/Documents/Tomiwa%20Oladejo.docx
-  docx_url: https://github.com/Tomiwa-Oladejo/Portfolio/blob/main/Documents/Tomiwa%20Oladejo.docx
