@@ -45,8 +45,8 @@ Below you can find an assortment of different projects:
 
 ### [Denial of Service Attacks with Mitigations](./Denial-of-Service-Attacks-with-Mitigations.html)
 
-> *   a
-> *   a
-> *   a
+> *   Conducted a comprehensive study on Distributed Denial of Service (DDoS) attacks targeting the OSI model’s transport (Layer 4) and                application (Layer 7) layers, including SYN flood, UDP flood, HTTP flood, and Slowloris attacks.
+> *   Analyzed and compared advanced mitigation techniques such as TCP SYN cookies, ingress/egress filtering, web application firewalls, and           reverse firewall mechanisms to evaluate their effectiveness against various attack vectors.
+> *   Performed a structured literature review using reputable databases (IEEE Xplore, Google Scholar, ScienceDirect) to synthesize current            academic perspectives, assess threats to research validity, and support evidence-based cybersecurity recommendations.
 
 
