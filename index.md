@@ -27,9 +27,9 @@ Below you can find an assortment of different projects:
 
 ### [Vulnerability Assessment and Penetration Testing](./Vulnerability-Assessment-and-Penetration-Testing.html)
 
-> *   Executed systematic vulnerability assessments of simulated enterprise networks to identify critical security weaknesses.
-> *   Utilised industry-standard tools, including Nmap, Wireshark, and Metasploit, for network scanning, packet analysis, and exploit validation.
-> *   Delivered comprehensive technical recommendations in a structured remediation plan, supported by empirical data.
+> *   Conducted in-depth vulnerability assessments using tools such as OpenVAS, Nmap, and Metasploit to identify and exploit network weaknesses including UnrealIRCd backdoors, weak PostgreSQL credentials          and Java RMI misconfigurations.
+> *   Collaborated effectively within a team to set up a secure virtual network environment using Kali Linux and Metasploitable, ensuring consistent communication and smooth task delegation through strategy.
+> *   Proposed and documented comprehensive network security improvements, including firewall configurations and the deployment of SNORT IDS/IPS, demonstrating a strong understanding of practical defence          mechanisms and incident response.
 
 ### [Information Security Management Portfolio](./Information-Security-Portfolio.html)
 
