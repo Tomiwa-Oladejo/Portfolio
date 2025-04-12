@@ -4,5 +4,4 @@ show_downloads: True
 google_analytics:
 theme: jekyll-theme-architect
 github:
-  pdf_url: https://github.com/Tomiwa-Oladejo/Portfolio/blob/main/Documents/download.pdf
-  docx_url: https://github.com/Tomiwa-Oladejo/Portfolio/blob/main/Documents/Tomiwa%20Oladejo/download.docx
+  zip_url: https://github.com/Tomiwa-Oladejo/Portfolio/blob/main/Documents/download.pdf
