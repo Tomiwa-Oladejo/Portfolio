@@ -3,6 +3,6 @@ description: A portfolio for the collection of my projects
 show_downloads: True
 google_analytics:
 theme: jekyll-theme-architect
-resume:
+github:
   pdf_url: https://github.com/Tomiwa-Oladejo/Portfolio/blob/main/Documents/download.pdf
   docx_url: https://github.com/Tomiwa-Oladejo/Portfolio/blob/main/Documents/Tomiwa%20Oladejo/download.docx
