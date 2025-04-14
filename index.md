@@ -5,7 +5,7 @@ layout: default
 
 <dl>
 <dt>Name</dt>
-<dd>Tomiwa Oladejo</dd>
+<b><dd>Tomiwa Oladejo</dd></b><dd>Tomiwa Oladejo</dd>
 <dt>Qualifications</dt>
 <dd>Nottingham trent university, Nottingham| September 2020 – July 2023 
   
