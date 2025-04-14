@@ -21,21 +21,21 @@ Below you can find an assortment of different projects:
 
 ### [Email Spam Filter](./Email-Spam-Filter.html)
 
-> *   Engineered a deep learning-based email spam filter using TensorFlow and Keras, implementing a neural network with embedding, flatten, and dense layers to classify spam and non-spam messages with high        accuracy.
-> *   Applied advanced NLP techniques including tokenization, stop-word removal, and punctuation stripping to pre-process text data, ensuring optimized input for the model and improved classification              performance.
-> *   Evaluated model performance using accuracy and AUC metrics; demonstrated the model’s ability to generalize by successfully predicting spam in previously unseen data, highlighting practical application       for real-world email security systems.
+> *   Engineered a deep learning-based email spam filter using TensorFlow and Keras, implementing a neural network with embedding, flatten, and        dense layers to classify spam and non-spam messages with high        accuracy.
+> *   Applied advanced NLP techniques including tokenization, stop-word removal, and punctuation stripping to pre-process text data, ensuring          optimized input for the model and improved classification              performance.
+> *   Evaluated model performance using accuracy and AUC metrics; demonstrated the model’s ability to generalize by successfully predicting spam       in previously unseen data, highlighting practical application       for real-world email security systems.
 
 ### [Vulnerability Assessment and Penetration Testing](./Vulnerability-Assessment-and-Penetration-Testing.html)
 
-> *   Conducted in-depth vulnerability assessments using tools such as OpenVAS, Nmap, and Metasploit to identify and exploit network weaknesses including UnrealIRCd backdoors, weak PostgreSQL credentials          and Java RMI misconfigurations.
-> *   Collaborated effectively within a team to set up a secure virtual network environment using Kali Linux and Metasploitable, ensuring consistent communication and smooth task delegation through strategy.
-> *   Proposed and documented comprehensive network security improvements, including firewall configurations and the deployment of SNORT IDS/IPS, demonstrating a strong understanding of practical defence          mechanisms and incident response.
+> *   Conducted in-depth vulnerability assessments using tools such as OpenVAS, Nmap, and Metasploit to identify and exploit network weaknesses        including UnrealIRCd backdoors, weak PostgreSQL credentials          and Java RMI misconfigurations.
+> *   Collaborated effectively within a team to set up a secure virtual network environment using Kali Linux and Metasploitable, ensuring              consistent communication and smooth task delegation through strategy.
+> *   Proposed and documented comprehensive network security improvements, including firewall configurations and the deployment of SNORT               IDS/IPS, demonstrating a strong understanding of practical defence          mechanisms and incident response.
 
 ### [Information Security Management Portfolio](./Information-Security-Portfolio.html)
 
-> *   Security Issue Identification & Analysis: Identified the specific security incident and analysed the techniques used by attackers, the           vulnerabilities exploited, and the affected assets (e.g., user data, company reputation).
-> *   Impact & Threat Assessment: Evaluated the short- and long-term impacts of the breach on the organisation, including financial loss and           reputational damage, and identified potential threat vectors and vulnerabilities.
-> *   Risk Management & Proposed Controls: Developed a risk register with identified risks and implemented procedural, technical, and physical         controls (e.g., firewalls, training programs, access controls) to mitigate future threats.
+> *   Designed and implemented an Information Security Management System (ISMS) to address Alibaba’s 2019-2020 data breach, which involved a           malicious web crawler scraping 1.1 billion user records. Conducted a thorough risk assessment to identify vulnerabilities, including weak        anti-scraping defenses and insider threats, and proposed layered technical controls (rate limiting, honeypot traps, HTML randomization),         procedural policies (employee training, data encryption), and physical safeguards (biometric access, CCTV).
+> *   Developed actionable cybersecurity strategies to mitigate future threats, such as deploying intrusion detection systems (IDS) for real-          time anomaly monitoring and enforcing strict data classification protocols. Ensured compliance with global regulations like China’s              Personal Information Protection Law (PIPL) by integrating data encryption and regular security audits into the framework.
+> *   Demonstrated expertise in risk management and stakeholder communication by translating technical vulnerabilities into business impacts           (e.g., reputational damage, revenue loss) and presenting tailored solutions. The ISMS not only addressed immediate scraping risks but also       strengthened Alibaba’s long-term security posture, emphasizing proactive threat prevention and employee accountability.
 
 ### [Computer Forensics and Investigation](./Computer-Forensics-and-Investigation.html)
 
