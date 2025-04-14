@@ -39,9 +39,9 @@ Below you can find an assortment of different projects:
 
 ### [Computer Forensics and Investigation](./Computer-Forensics-and-Investigation.html)
 
-> *   Conducted advanced forensic analysis utilising Cellebrite’s Physical Analyser to extract and parse digital data.
-> *   Performed comprehensive evaluations of textual, multimedia, and application datasets to identify evidentiary artefacts.
-> *   Synthesised findings into a detailed forensic report, adhering to rigorous methodological standards and evidentiary protocols.
+> *   Conducted a smartphone forensic investigation using Cellebrite Physical Analyzer, extracting physical and logical images to uncover              evidence of premeditated theft.
+> *   Analyzed communications, search history, and geolocation metadata to confirm suspect’s intent, presence at the scene, and behavioral             motives tied to financial stress.
+> *   Recovered hidden data via hex analysis, built a detailed activity timeline, and compiled a court-admissible forensic report linking              digital evidence to criminal planning.
 
 ### [Denial of Service Attacks with Mitigations](./Denial-of-Service-Attacks-with-Mitigations.html)
 
