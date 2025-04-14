@@ -33,9 +33,9 @@ Below you can find an assortment of different projects:
 
 ### [Information Security Management Portfolio](./Information-Security-Portfolio.html)
 
-> *   Designed and implemented an Information Security Management System (ISMS) to address Alibaba’s 2019-2020 data breach, which involved a           malicious web crawler scraping 1.1 billion user records. Conducted a thorough risk assessment to identify vulnerabilities, including weak        anti-scraping defenses and insider threats, and proposed layered technical controls (rate limiting, honeypot traps, HTML randomization),         procedural policies (employee training, data encryption), and physical safeguards (biometric access, CCTV).
-> *   Developed actionable cybersecurity strategies to mitigate future threats, such as deploying intrusion detection systems (IDS) for real-          time anomaly monitoring and enforcing strict data classification protocols. Ensured compliance with global regulations like China’s              Personal Information Protection Law (PIPL) by integrating data encryption and regular security audits into the framework.
-> *   Demonstrated expertise in risk management and stakeholder communication by translating technical vulnerabilities into business impacts           (e.g., reputational damage, revenue loss) and presenting tailored solutions. The ISMS not only addressed immediate scraping risks but also       strengthened Alibaba’s long-term security posture, emphasizing proactive threat prevention and employee accountability.
+> *   Designed and implemented an ISMS in response to Alibaba’s 2019–2020 data breach, addressing vulnerabilities from malicious web scraping of       1.1 billion records. Proposed layered technical, procedural, and physical safeguards.
+> *   Developed cybersecurity strategies including IDS deployment, data classification policies, and encryption protocols, ensuring compliance         with China’s PIPL and enabling real-time threat monitoring.
+> *   Translated technical risks into business impacts for stakeholders, highlighting reputational and financial consequences. Delivered               tailored solutions that strengthened Alibaba’s long-term security posture.
 
 ### [Computer Forensics and Investigation](./Computer-Forensics-and-Investigation.html)
 
