@@ -4,9 +4,9 @@ layout: default
 # <u>Introduction</u>
 
 <dl>
-<dt>Name</dt>
+<dt><u>Name</u></dt>
 <dd><b style="font-style: italic;">Tomiwa Oladejo</b></dd>
-<dt>Qualifications</dt>
+<dt><u>Qualifications</u></dt>
 <dd><b style="font-style: italic;">Nottingham trent university, Nottingham| September 2020 – July 2023 
   
   BSc (Hons) Computer Systems (Cyber Security) – Graduated with a 2:1</b></dd>
