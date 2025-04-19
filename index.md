@@ -38,13 +38,13 @@ Below you can find an assortment of different projects:
 ### [Computer Forensics and Investigation](./Computer-Forensics-and-Investigation.html)
 
 > *   Conducted a smartphone forensic investigation using Cellebrite Physical Analyzer, extracting physical and logical images to uncover              evidence of premeditated theft.
-> *   Analyzed communications, search history, and geolocation metadata to confirm suspect’s intent, presence at the scene, and behavioral             motives tied to financial stress.
+> *   Analysed communications, search history, and geolocation metadata to confirm suspect’s intent, presence at the scene, and behavioral             motives tied to financial stress.
 > *   Recovered hidden data via hex analysis, built a detailed activity timeline, and compiled a court-admissible forensic report linking              digital evidence to criminal planning.
 
 ### [Denial of Service Attacks with Mitigations](./Denial-of-Service-Attacks-with-Mitigations.html)
 
 > *   Conducted a comprehensive study on Distributed Denial of Service (DDoS) attacks targeting the OSI model’s transport (Layer 4) and                application (Layer 7) layers, including SYN flood, UDP flood, HTTP flood, and Slowloris attacks.
-> *   Analyzed and compared advanced mitigation techniques such as TCP SYN cookies, ingress/egress filtering, web application firewalls, and           reverse firewall mechanisms to evaluate their effectiveness against various attack vectors.
+> *   Analysed and compared advanced mitigation techniques such as TCP SYN cookies, ingress/egress filtering, web application firewalls, and           reverse firewall mechanisms to evaluate their effectiveness against various attack vectors.
 > *   Performed a structured literature review using reputable databases (IEEE Xplore, Google Scholar, ScienceDirect) to synthesize current            academic perspectives, assess threats to research validity, and support evidence-based cybersecurity recommendations.
 
 (In the scenario a project appears on my CV and is not present on this portfolio, I have not had the opportunity to integrate it yet)
