@@ -19,7 +19,7 @@ Below you can find an assortment of different projects:
 
 ### [Email Spam Filter](./Email-Spam-Filter.html)
 
-> *   Engineered a deep learning-based email spam filter using TensorFlow and Keras, implementing a neural network with embedding, flatten, and        dense layers to classify spam and non-spam messages with high        accuracy.
+> *   Developed a deep learning-based email spam filter using TensorFlow and Keras, implementing a neural network with embedding, flatten, and        dense layers to classify spam and non-spam messages with high        accuracy.
 > *   Applied advanced NLP techniques including tokenization, stop-word removal, and punctuation stripping to pre-process text data, ensuring          optimized input for the model and improved classification              performance.
 > *   Evaluated model performance using accuracy and AUC metrics; demonstrated the model’s ability to generalize by successfully predicting spam       in previously unseen data, highlighting practical application       for real-world email security systems.
 
