@@ -14,8 +14,6 @@ layout: default
 
 I decided to create this website as a means to showcase the collection of various projects I have completed. The numerous projects within this portfolio have provided me with hands on experience in various areas of the captivating field that is cyber security. Furthermore, through the exploration of these projects, I have been able to vastly expand the scope of my knowledge, in addition to positively benefitting from continuous learning. 
 
-Please feel free to contact me if you wish to have a discussion.
-
 ## <u>Projects</u>
 Below you can find an assortment of different projects:
 
