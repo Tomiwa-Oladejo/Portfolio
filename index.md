@@ -12,7 +12,7 @@ layout: default
   BSc (Hons) Computer Systems (Cyber Security) – Graduated with a 2:1</b></dd>
 </dl>
 
-I decided to create this website as a means to showcase the collection of various projects I have completed. The numerous projects within this portfolio have provided me with hands on experience in various areas of the captivating field that is cyber security. Furthermore, through the exploration of these projects, I have been able to vastly expand the scope of my knowledge, in addition to positively benefitting from the luxury of continuous learning. 
+I decided to create this website as a means to showcase the collection of various projects I have completed. The numerous projects within this portfolio have provided me with hands on experience in various areas of the captivating field that is cyber security. Furthermore, through the exploration of these projects, I have been able to vastly expand the scope of my knowledge, in addition to positively benefitting from continuous learning. 
 
 Please feel free to contact me if you wish to have a discussion.
 
@@ -49,4 +49,4 @@ Below you can find an assortment of different projects:
 > *   Analyzed and compared advanced mitigation techniques such as TCP SYN cookies, ingress/egress filtering, web application firewalls, and           reverse firewall mechanisms to evaluate their effectiveness against various attack vectors.
 > *   Performed a structured literature review using reputable databases (IEEE Xplore, Google Scholar, ScienceDirect) to synthesize current            academic perspectives, assess threats to research validity, and support evidence-based cybersecurity recommendations.
 
-
+(In the scenario a project appears on my CV and is not present on this portfolio, I have not had the opportunity to integrate it yet)
