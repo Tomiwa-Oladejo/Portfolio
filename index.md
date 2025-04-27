@@ -17,6 +17,14 @@ I decided to create this website as a means to showcase the collection of variou
 ## <u>Projects</u>
 Below you can find an assortment of different projects:
 
+### [Microsoft Azure & Sentinel SIEM Project](./Microsoft-Azure-&-Sentinel-SIEM-Project.html)
+
+> *   Deployed a Windows 10 honeypot VM in Azure and connected it to Microsoft Sentinel via Log Analytics Workspace.
+> *   Monitored simulated attacks (e.g., brute-force login attempts) and analyzed security events using KQL queries.
+> *   Built custom Sentinel dashboards to visualize threats and enriched log data for geographic tracking.
+> *   Practiced alert triage, incident response workflows, and clear security event documentation.
+> *   Gained practical experience with SIEM alert correlation, incident escalation, and SOC-style monitoring.
+
 ### [Email Spam Filter](./Email-Spam-Filter.html)
 
 > *   Developed a deep learning-based email spam filter using TensorFlow and Keras, implementing a neural network with embedding, flatten, and        dense layers to classify spam and non-spam messages with high        accuracy.
