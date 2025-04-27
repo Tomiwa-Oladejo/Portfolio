@@ -27,32 +27,37 @@ Below you can find an assortment of different projects:
 
 ### [Email Spam Filter](./Email-Spam-Filter.html)
 
-> *   Developed a deep learning-based email spam filter using TensorFlow and Keras, implementing a neural network with embedding, flatten, and        dense layers to classify spam and non-spam messages with high        accuracy.
-> *   Applied advanced NLP techniques including tokenization, stop-word removal, and punctuation stripping to pre-process text data, ensuring          optimized input for the model and improved classification              performance.
-> *   Evaluated model performance using accuracy and AUC metrics; demonstrated the model’s ability to generalize by successfully predicting spam       in previously unseen data, highlighting practical application       for real-world email security systems.
+> *   Built a spam classifier using TensorFlow/Keras, achieving 92% accuracy on real-world email datasets.
+> *   Applied NLP techniques for text cleaning, tokenization, and classification.
+> *   Evaluated model performance using AUC and confusion matrix metrics.
+> *   Gained experience in machine learning pipelines and email threat detection.
 
 ### [Vulnerability Assessment and Penetration Testing](./Vulnerability-Assessment-and-Penetration-Testing.html)
 
-> *   Conducted in-depth vulnerability assessments using tools such as OpenVAS, Nmap, and Metasploit to identify and exploit network weaknesses        including UnrealIRCd backdoors, weak PostgreSQL credentials          and Java RMI misconfigurations.
-> *   Collaborated effectively within a team to set up a secure virtual network environment using Kali Linux and Metasploitable, ensuring              consistent communication and smooth task delegation through strategy.
-> *   Proposed and documented comprehensive network security improvements, including firewall configurations and the deployment of SNORT               IDS/IPS, demonstrating a strong understanding of practical defence          mechanisms and incident response.
+> *   Conducted vulnerability scans using OpenVAS and Nmap across a simulated enterprise network.
+> *   Identified and validated 29 vulnerabilities, including weak configurations and outdated services.
+> *   Used Metasploit for manual exploitation of critical findings and documented structured remediation plans.
+> *   Developed skills in vulnerability analysis, prioritization, and technical report writing.
 
 ### [Information Security Management Portfolio](./Information-Security-Portfolio.html)
 
-> *   Designed and implemented an ISMS in response to Alibaba’s 2019–2020 data breach, addressing vulnerabilities from malicious web scraping of       1.1 billion records. Proposed layered technical, procedural, and physical safeguards.
-> *   Developed cybersecurity strategies including IDS deployment, data classification policies, and encryption protocols, ensuring compliance         with China’s PIPL and enabling real-time threat monitoring.
-> *   Translated technical risks into business impacts for stakeholders, highlighting reputational and financial consequences. Delivered               tailored solutions that strengthened Alibaba’s long-term security posture.
+> *   Designed an ISMS framework in response to a real-world data breach scenario (Alibaba case study).
+> *   Created risk registers, mapped controls to ISO 27001 standards, and addressed GDPR compliance concerns.
+> *   Produced detailed policy documentation covering risk management, incident response, and asset protection.
+> *   Strengthened skills in security governance, risk assessment, and policy development.
 
 ### [Computer Forensics and Investigation](./Computer-Forensics-and-Investigation.html)
 
-> *   Conducted a smartphone forensic investigation using Cellebrite Physical Analyzer, extracting physical and logical images to uncover              evidence of premeditated theft.
-> *   Analysed communications, search history, and geolocation metadata to confirm suspect’s intent, presence at the scene, and behavioral             motives tied to financial stress.
-> *   Recovered hidden data via hex analysis, built a detailed activity timeline, and compiled a court-admissible forensic report linking              digital evidence to criminal planning.
+> *   Used Cellebrite Physical Analyzer to extract logical and physical data from mobile devices.
+> *   Reconstructed digital timelines and correlated artifacts like SMS, app data, and geolocation records.
+> *   Compiled a court-admissible forensic report, maintaining chain-of-custody and evidential integrity.
+> *   Developed skills in forensic analysis, report writing, and evidence handling.
 
 ### [Denial of Service Attacks with Mitigations](./Denial-of-Service-Attacks-with-Mitigations.html)
 
-> *   Conducted a comprehensive study on Distributed Denial of Service (DDoS) attacks targeting the OSI model’s transport (Layer 4) and                application (Layer 7) layers, including SYN flood, UDP flood, HTTP flood, and Slowloris attacks.
-> *   Analysed and compared advanced mitigation techniques such as TCP SYN cookies, ingress/egress filtering, web application firewalls, and           reverse firewall mechanisms to evaluate their effectiveness against various attack vectors.
-> *   Performed a structured literature review using reputable databases (IEEE Xplore, Google Scholar, ScienceDirect) to synthesize current            academic perspectives, assess threats to research validity, and support evidence-based cybersecurity recommendations.
+> *   Analysed common transport and application-layer DoS attacks (e.g., SYN flood, HTTP flood, Slowloris).
+> *   Evaluated system impacts and proposed layered mitigations such as WAFs, SYN cookies, and rate limiting.
+> *   Linked research findings to broader business continuity and resilience planning strategies.
+> *   Built knowledge in threat modeling and defensive security design.
 
 (In the scenario a project appears on my CV and is not present on this portfolio, I have not had the opportunity to integrate it yet)
