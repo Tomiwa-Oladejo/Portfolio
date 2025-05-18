@@ -17,7 +17,7 @@ I decided to create this website as a means to showcase the collection of differ
 ## <u>Projects</u>
 Below you can find an assortment of different projects:
 
-### [Microsoft Azure & Sentinel SIEM Project](./Microsoft-Azure-&-Sentinel-SIEM-Project.html)
+### [Microsoft Azure & Sentinel SIEM Lab](./Microsoft-Azure-&-Sentinel-SIEM-Lab.html)
 
 > *   Deployed a Windows 10 honeypot VM in Azure and connected it to Microsoft Sentinel via Log Analytics Workspace.
 > *   Monitored simulated attacks (e.g., brute-force login attempts) and analyzed security events using KQL queries.
