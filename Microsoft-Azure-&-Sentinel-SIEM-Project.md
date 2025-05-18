@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <u>Microsoft Azure & Sentinel SIEM Project</u>
+# <u>Microsoft Azure & Sentinel SIEM Lab</u>
 
 ## <u>Overview</u>
 
