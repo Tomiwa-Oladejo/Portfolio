@@ -12,7 +12,7 @@ layout: default
   BSc (Hons) Computer Systems (Cyber Security) – Degree Classification: 2:1</b></dd>
 </dl>
 
-I decided to create this website as a means to showcase the collection of different projects I have completed. The numerous projects within this portfolio have provided me with hands on experience in various areas of the captivating field that is cyber security. Furthermore, through the exploration of these projects, I have been able to vastly expand the scope of my knowledge, in addition to positively benefitting from continuous learning. 
+I created this website as a means to showcase a collection of cybersecurity projects I have completed. These hands-on experiences span various areas of this dynamic and ever-evolving field, including threat detection, vulnerability assessment, and SIEM operations. Each project has not only strengthened my technical skills but also deepened my understanding of cybersecurity principles in real-world contexts. Through these explorations, I have significantly expanded my knowledge base and embraced a mindset of continuous learning and improvement.
 
 ## <u>Projects</u>
 Below you can find an assortment of different projects:
