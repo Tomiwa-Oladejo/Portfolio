@@ -6,9 +6,9 @@ layout: default
 
 ## <u>Overview</u>
 
-For this project, I set up a simulated Security Operations Center (SOC) lab environment in Microsoft Azure and Sentinel. I provisioned a vulnerable Windows 10 VM as a honeypot to collect real-world attack data, including brute-force login attempts.
-Using Sentinel and Log Analytics Workspace, I monitored real-time security events, wrote KQL queries to analyse suspicious behavior, and created custom dashboards to visualise attacker activity.
-This hands-on experience taught me how to triage alerts, handle incidents throughout their lifecycle, and produce concise documentation. These are all vital skills needed to function effectively in a live SOC team.
+As part of a hands-on cybersecurity lab, I configured and deployed Microsoft Sentinel within an Azure environment to simulate and detect a brute-force attack. The project involved setting up a Windows honeypot virtual machine, configuring log ingestion using Azure Monitor Agent, and developing custom KQL queries to identify suspicious activity, such as repeated failed login attempts.
+
+To enhance threat context, I incorporated a custom IP geolocation watchlist and created a visual threat map using Sentinel Workbooks, clearly identifying the origin of the attack. This lab helped solidify my understanding of SIEM operations, log analysis, and incident response workflows, while also demonstrating how enriched data and automation can support faster threat detection in real-world environments.
 
 <iframe src="Documents/Microsoft Sentinel SIEM Lab.pdf" width="100%" height="1000px" frameborder="0"></iframe>
 
