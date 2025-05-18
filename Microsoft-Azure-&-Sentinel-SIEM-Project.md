@@ -10,6 +10,6 @@ For this project, I set up a simulated Security Operations Center (SOC) lab envi
 Using Sentinel and Log Analytics Workspace, I monitored real-time security events, wrote KQL queries to analyse suspicious behavior, and created custom dashboards to visualize attacker activity.
 This hands-on experience taught me how to triage alerts, handle incidents throughout their lifecycle, and produce concise documentation. These are all vital skills needed to function effectively in a live SOC team.
 
-<iframe src="Documents/N0940282_Report.pdf" width="100%" height="1000px" frameborder="0"></iframe>
+<iframe src="Documents/Microsoft Sentinel SIEM Lab.pdf" width="100%" height="1000px" frameborder="0"></iframe>
 
 [Home Page](./)
