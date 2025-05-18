@@ -19,11 +19,13 @@ Below you can find an assortment of different projects:
 
 ### [Microsoft Azure & Sentinel SIEM Lab](./Microsoft-Azure-&-Sentinel-SIEM-Lab.html)
 
-> *   Deployed a Windows 10 honeypot VM in Azure and connected it to Microsoft Sentinel via Log Analytics Workspace.
-> *   Monitored simulated attacks (e.g., brute-force login attempts) and analyzed security events using KQL queries.
-> *   Built custom Sentinel dashboards to visualize threats and enriched log data for geographic tracking.
-> *   Practiced alert triage, incident response workflows, and clear security event documentation.
-> *   Gained practical experience with SIEM alert correlation, incident escalation, and SOC-style monitoring.
+> *   Deployed a honeypot Windows VM in Azure and configured log ingestion using Microsoft Sentinel via Log Analytics Workspace and Azure              Monitor Agent (AMA).
+> *   Simulated a brute-force attack, generating over 24,000 failed login attempts to analyse alert behaviour.
+> *   Created custom KQL queries to identify and filter failed login events (EventID 4625) by IP, account, and timestamp.
+> *   Uploaded a geolocation watchlist and built a threat map in Sentinel Workbooks to visualise attack origin (Netherlands).
+> *   Demonstrated key SOC workflows including detection logic, data enrichment, and visual reporting.
+
+
 
 ### [Email Spam Filter](./Email-Spam-Filter.html)
 
