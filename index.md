@@ -7,9 +7,7 @@ layout: default
 <dt><u>Name</u></dt>
 <dd><b style="font-style: italic;">Tomiwa Oladejo</b></dd>
 <dt><u>Qualifications</u></dt>
-<dd><b style="font-style: italic;">Nottingham trent university, Nottingham
-  
-  BSc (Hons) Computer Systems (Cyber Security) – Degree Classification: 2:1</b></dd>
+<dd><b style="font-style: italic;">Nottingham trent university, Nottingham | BSc (Hons) Computer Systems (Cyber Security) – Degree Classification: 2:1</b></dd>
 </dl>
 
 I created this website as a means to showcase a collection of cybersecurity projects I have completed. These hands-on experiences span various areas of this dynamic and ever-evolving field, including threat detection, vulnerability assessment, and SIEM operations. Each project has not only strengthened my technical skills but also deepened my understanding of cybersecurity principles in real-world contexts. Through these explorations, I have significantly expanded my knowledge base and embraced a mindset of continuous learning and improvement.
