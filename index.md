@@ -7,7 +7,7 @@ layout: default
 <dt><u>Name</u></dt>
 <dd><b style="font-style: italic;">Tomiwa Oladejo</b></dd>
 <dt><u>Qualifications</u></dt>
-<dd><b style="font-style: italic;">Nottingham trent university, Nottingham|
+<dd><b style="font-style: italic;">Nottingham trent university, Nottingham
   
   BSc (Hons) Computer Systems (Cyber Security) – Degree Classification: 2:1</b></dd>
 </dl>
