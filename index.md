@@ -25,7 +25,7 @@ Below you can find an assortment of different projects:
 
 
 
-### [Email Spam Filter](./Pages/Email-Spam-Filter.html)
+### [Email Spam Filter](./Email-Spam-Filter.html)
 
 > *   Built a spam classifier using TensorFlow/Keras, achieving 92% accuracy on real-world email datasets.
 > *   Applied NLP techniques for text cleaning, tokenization, and classification.
