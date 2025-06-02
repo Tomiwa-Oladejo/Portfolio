@@ -46,7 +46,7 @@ Below you can find an assortment of different projects:
 > *   Produced detailed policy documentation covering risk management, incident response, and asset protection.
 > *   Strengthened skills in security governance, risk assessment, and policy development.
 
-### [Computer Forensics and Investigation](.Pages/Computer-Forensics-and-Investigation.html)
+### [Computer Forensics and Investigation](./Pages/Computer-Forensics-and-Investigation.html)
 
 > *   Used Cellebrite Physical Analyzer to extract logical and physical data from mobile devices.
 > *   Reconstructed digital timelines and correlated artifacts like SMS, app data, and geolocation records.
