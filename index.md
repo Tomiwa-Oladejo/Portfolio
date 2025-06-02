@@ -15,7 +15,7 @@ I created this website as a means to showcase a collection of cybersecurity proj
 ## <u>Projects</u>
 Below you can find an assortment of different projects:
 
-### [Microsoft Azure & Sentinel SIEM Lab](./Pages/Microsoft-Azure-&-Sentinel-SIEM-Lab.html)
+### [Microsoft Azure & Sentinel SIEM Lab](/Pages/Microsoft-Azure-&-Sentinel-SIEM-Lab.html)
 
 > *   Deployed a honeypot Windows VM in Azure and configured log ingestion using Microsoft Sentinel via Log Analytics Workspace and Azure              Monitor Agent (AMA).
 > *   Simulated a brute-force attack, generating over 24,000 failed login attempts to analyse alert behaviour.
