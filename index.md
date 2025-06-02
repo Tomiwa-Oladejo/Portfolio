@@ -15,7 +15,7 @@ I created this website as a means to showcase a collection of cybersecurity proj
 ## <u>Projects</u>
 Below you can find an assortment of different projects:
 
-### [Microsoft Azure & Sentinel SIEM Lab](./Pages/Microsoft-Azure-&-Sentinel-SIEM-Lab.html)
+### [Microsoft Azure & Sentinel SIEM Lab](./Microsoft-Azure-&-Sentinel-SIEM-Lab.html)
 
 > *   Deployed a honeypot Windows VM in Azure and configured log ingestion using Microsoft Sentinel via Log Analytics Workspace and Azure              Monitor Agent (AMA).
 > *   Simulated a brute-force attack, generating over 24,000 failed login attempts to analyse alert behaviour.
@@ -32,28 +32,28 @@ Below you can find an assortment of different projects:
 > *   Evaluated model performance using AUC and confusion matrix metrics.
 > *   Gained experience in machine learning pipelines and email threat detection.
 
-### [Vulnerability Assessment and Penetration Testing](./Pages/Vulnerability-Assessment-and-Penetration-Testing.html)
+### [Vulnerability Assessment and Penetration Testing](./Vulnerability-Assessment-and-Penetration-Testing.html)
 
 > *   Conducted vulnerability scans using OpenVAS and Nmap across a simulated enterprise network.
 > *   Identified and validated 29 vulnerabilities, including weak configurations and outdated services.
 > *   Used Metasploit for manual exploitation of critical findings and documented structured remediation plans.
 > *   Developed skills in vulnerability analysis, prioritization, and technical report writing.
 
-### [Information Security Management Portfolio](./Pages/Information-Security-Portfolio.html)
+### [Information Security Management Portfolio](./Information-Security-Portfolio.html)
 
 > *   Designed an ISMS framework in response to a real-world data breach scenario (Alibaba case study).
 > *   Created risk registers, mapped controls to ISO 27001 standards, and addressed GDPR compliance concerns.
 > *   Produced detailed policy documentation covering risk management, incident response, and asset protection.
 > *   Strengthened skills in security governance, risk assessment, and policy development.
 
-### [Computer Forensics and Investigation](./Pages/Computer-Forensics-and-Investigation.html)
+### [Computer Forensics and Investigation](./Computer-Forensics-and-Investigation.html)
 
 > *   Used Cellebrite Physical Analyzer to extract logical and physical data from mobile devices.
 > *   Reconstructed digital timelines and correlated artifacts like SMS, app data, and geolocation records.
 > *   Compiled a court-admissible forensic report, maintaining chain-of-custody and evidential integrity.
 > *   Developed skills in forensic analysis, report writing, and evidence handling.
 
-### [Denial of Service Attacks with Mitigations](./Pages/Denial-of-Service-Attacks-with-Mitigations.html)
+### [Denial of Service Attacks with Mitigations](./Denial-of-Service-Attacks-with-Mitigations.html)
 
 > *   Analysed common transport and application-layer DoS attacks (e.g., SYN flood, HTTP flood, Slowloris).
 > *   Evaluated system impacts and proposed layered mitigations such as WAFs, SYN cookies, and rate limiting.
