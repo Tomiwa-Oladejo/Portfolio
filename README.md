@@ -32,6 +32,6 @@ Quick list of projects documented on the website
 <br>
 
 ## Contact
-If you have any questions or comments about the project, please contact here:
+If you have any questions or comments, please contact here:
 - tommdej@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/tomiwa-oladejo/)
