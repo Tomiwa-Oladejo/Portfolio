@@ -7,7 +7,7 @@ layout: default
 <dt><u>Name</u></dt>
 <dd><b style="font-style: italic;">Tomiwa Oladejo</b></dd>
 <dt><u>Qualifications</u></dt>
-<dd><b style="font-style: italic;">University of Surrey | MSc Cyber Security – September 2025 - Present</b></dd>
+<dd><b style="font-style: italic;">University of Surrey | MSc Cyber Security – In Progress</b></dd>
 <dd><b style="font-style: italic;">Nottingham Trent University | BSc (Hons) Computer Systems (Cyber Security) – 2:1</b></dd>
 </dl>
 
