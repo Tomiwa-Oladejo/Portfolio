@@ -60,5 +60,3 @@ Below you can find an assortment of different projects:
 > *   Evaluated system impacts and proposed layered mitigations such as WAFs, SYN cookies, and rate limiting.
 > *   Linked research findings to broader business continuity and resilience planning strategies.
 > *   Built knowledge in threat modeling and defensive security design.
-
-(In the scenario a project appears on my CV and is not present on this portfolio, I have not had the opportunity to integrate it yet)
