@@ -6,4 +6,4 @@ The report details the platform’s system context, data classification model, a
 In addition to technical controls, the document incorporates governance mechanisms such as a RAID log and an Architecture Decision Record to demonstrate accountability and structured decision-making. By integrating threat modelling, identity management, and operational oversight into the design process, the architecture shows how security can be treated as a foundational design principle rather than an afterthought, enabling the TIE platform to operate securely and at scale.
 
 
-<iframe src="Documents/N0940282_Report.pdf" width="100%" height="1000px" frameborder="0"></iframe>
+<iframe src="Documents/COMM058 CW1 6952417.pdf" width="100%" height="1000px" frameborder="0"></iframe>
