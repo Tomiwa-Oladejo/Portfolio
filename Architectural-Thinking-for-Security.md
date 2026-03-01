@@ -1,3 +1,10 @@
+---
+layout: default
+---
+
+# <u>Computer Forensics and Investigation</u>
+
+## <u>Overview</u>
 
 This document presents the security architecture design for the Turing Intelligent Energy (TIE) platform, a cloud-based energy optimisation system that connects homeowners, installers, operational staff, and third-party service providers. It outlines how the platform is structured to operate securely and reliably while handling sensitive personal, financial, and operational data. The architecture is shaped by clearly defined system boundaries, trust domains, and identity-driven access controls to ensure confidentiality, integrity, and availability.
 
