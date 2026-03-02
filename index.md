@@ -24,7 +24,12 @@ Below you can find an assortment of different projects:
 > *   Uploaded a geolocation watchlist and built a threat map in Sentinel Workbooks to visualise attack origin (Netherlands).
 > *   Demonstrated key SOC workflows including detection logic, data enrichment, and visual reporting.
 
+### [Architectural Thinking for Security](./Architectural-Thinking-for-Security.html)
 
+> *   Strengthens Security by Design – Embeds Zero Trust principles, identity-based access control, and structured threat modelling directly           into the platform architecture, reducing exposure to misuse, data breaches, and unauthorised access.
+> *   Protects Sensitive Data and Regulatory Compliance – Classifies and safeguards personal, financial, and operational data in alignment with        recognised standards, supporting GDPR and industry best practices.
+> *   Improves Operational Resilience and Availability – Designs for 24×7 operation with defined recovery objectives, monitoring, segmentation,        and governance controls to minimise service disruption.
+> *   Enhances Accountability and Governance – Implements separation of duties, risk tracking (RAID), and formal architectural decision records        to ensure transparency, oversight, and controlled change management.
 
 ### [Email Spam Filter](./Email-Spam-Filter.html)
 
