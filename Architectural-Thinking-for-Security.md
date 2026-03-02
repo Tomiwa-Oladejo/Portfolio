@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <u>Computer Forensics and Investigation</u>
+# <u>Architectural Thinking for Security</u>
 
 ## <u>Overview</u>
 
