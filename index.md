@@ -11,7 +11,7 @@ layout: default
 <dd><b style="font-style: italic;">Nottingham Trent University | BSc (Hons) Computer Systems (Cyber Security) – 2:1</b></dd>
 </dl>
 
-This website acts as a showcase for the various projects I have completed. These hands-on experiences span various areas of this dynamic and ever-evolving field, including threat detection, vulnerability assessment, and SIEM operations. Each project has not only strengthened my technical skills but also deepened my understanding of various principles (Networking, Systems, Cyber Security etc.) in real-world contexts. Through these explorations, I have significantly expanded my knowledge base and embraced a mindset of continuous learning and improvement.
+This portfolio acts as a showcase for the various projects I have completed. These hands-on experiences span various areas of this dynamic and ever-evolving field know as Cyber Security. Areas covered include threat detection, vulnerability assessment, and SIEM operations. Each project has not only strengthened my technical skills but also deepened my understanding of various principles (Networking, Systems, Cyber Security etc.) in real-world contexts. Through these explorations, I have significantly expanded my knowledge base and embraced a mindset of continuous learning and improvement.
 
 ## <u>Projects</u>
 Below you can find an assortment of different projects:
