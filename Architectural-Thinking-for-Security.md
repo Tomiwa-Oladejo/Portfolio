@@ -12,6 +12,6 @@ Details of the platform’s system context are outlined in within the report, al
 
 In addition to technical controls, the document incorporates governance mechanisms such as a RAID log and an Architecture Decision Record, demonstrating accountability and structured decision making. By integrating threat modelling, identity management, and operational oversight into the design process, the architecture portrays how security can be treated as a foundational design principle as opposed to an afterthought. A key factor which would enable the platform to operate at scale.
 
-<iframe src="Documents/COMM058 CW1 6952417.pdf" width="100%" height="1000px" frameborder="0"></iframe>
+<iframe src="Documents/COMM058 CW1 6952417 (2).pdf" width="100%" height="1000px" frameborder="0"></iframe>
 
 [Home Page](./)
