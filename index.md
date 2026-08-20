@@ -47,10 +47,10 @@ Below you can find an assortment of different projects:
 
 ### [Information Security Management Portfolio](./Information-Security-Portfolio.html)
 
-> *   Designed an ISMS framework in response to a real-world data breach scenario (Alibaba case study).
-> *   Created risk registers, mapped controls to ISO 27001 standards, and addressed GDPR compliance concerns.
-> *   Produced detailed policy documentation covering risk management, incident response, and asset protection.
-> *   Strengthened skills in security governance, risk assessment, and policy development.
+> *   Developed an Information Security Management System (ISMS) portfolio in response to the Alibaba data breach, defining the security scope        and analysing affected assets, threats and vulnerabilities.
+> *   Created asset and risk registers assessing likelihood, impact, ownership and mitigation requirements for identified security risks.
+> *   Recommended procedural, technical and physical security controls, including information classification, access controls, security               awareness, firewalls, intrusion detection and data-handling measures, while considering GDPR requirements.
+> *   Developed practical skills in information security governance, risk assessment, control selection and security policy development.
 
 ### [Computer Forensics and Investigation](./Computer-Forensics-and-Investigation.html)
 
